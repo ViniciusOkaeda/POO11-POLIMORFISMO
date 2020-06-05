@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.exe
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.deps.json
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.dll
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\bin\Debug\netcoreapp3.1\AULA11POLIMORFISMO.pdb
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.dll
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.pdb
+C:\Users\vinicius\Documents\AULA11POLIMORFISMO\obj\Debug\netcoreapp3.1\AULA11POLIMORFISMO.genruntimeconfig.cache
